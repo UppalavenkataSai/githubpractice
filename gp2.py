@@ -1,1 +1,1 @@
-This is new file gp2.py
+updated file gp2.py for update
